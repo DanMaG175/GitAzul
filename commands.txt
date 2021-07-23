@@ -1,0 +1,1 @@
+Creación de archivo commands.txt después de configurar e iniciar el repositorio
