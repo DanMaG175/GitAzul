@@ -1,1 +1,7 @@
-Creación de archivo commands.txt después de configurar e iniciar el repositorio
+//Creación de archivo commands.txt después de configurar e iniciar el repositorio
+//Cambio de archivo config, key email.
+
+Comandos Más Usados
+-- Directorios en linux
+pwd	print working directory	muestra en que directorio nos encontramos.
+ls, dir	list y directory	muestra el contenido del directorio.
