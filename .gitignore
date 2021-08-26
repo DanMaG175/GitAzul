@@ -1,0 +1,6 @@
+#Archivo .gitignore para que no se tomen en cuenta algunos tipos de archivos.
+
+#ejemplo:
+*.js
+*.py
+*.txt
